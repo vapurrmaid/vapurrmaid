@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 
 ### Things I Feel Like Mentioning 4 Now
 
-I like most things devtool oriented
+I like most things devtool oriented. I have some public contribs to the following:
+
+- https://github.com/cdr/code-server
+- https://github.com/cdr/coder-cli
+- https://github.com/cdr/enterprise-images
+- https://github.com/typescript-eslint/typescript-eslint
 
 I like mathematics, but am a complete amateur
 
