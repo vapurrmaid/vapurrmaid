@@ -31,8 +31,9 @@ I like most things devtool oriented. I have some public contribs to the followin
 - https://github.com/cdr/enterprise-images
 - https://github.com/typescript-eslint/typescript-eslint
 
-I like mathematics, but am a complete amateur. Wrote [this](https://github.com/vapurrmaid/markov-chain) and have been
-meaning to write some kind of example project consuming its powers.
+I like mathematics, but am a complete amateur
+
+- Wrote [this](https://github.com/vapurrmaid/markov-chain) and have been meaning to write some kind of example project consuming its powers.
 
 Whenever I find time again, I'll be studying more on generative (art/text/images)
 
