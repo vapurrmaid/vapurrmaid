@@ -3,7 +3,7 @@
 Here's my attempt at the copypasta GH provided, until I fill this out more:
 
 - 🔭 I’m currently working on :sparkles: Coder Enterprise :sparkles:
-- 🌱 I’m currently researching :sparkles: Extensible Architectures :sparkles:
+- 🌱 I’m currently researching :sparkles: PWAs, E2E testing with FSMs (`xstate` ftw) :sparkles:
 - 👯 I’m looking to collaborate on :sparkles: something in the A/V realm :sparkles:
 - 🤔 I’m looking for help with :sparkles: improving this bio :sparkles:
 
